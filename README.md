@@ -1,3 +1,3 @@
 # hello-world
-What is GitHub?
-My name is Eitan.
+What is GitHub?;
+My name is Eitan.;
